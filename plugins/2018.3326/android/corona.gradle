@@ -4,5 +4,5 @@ repositories {
 }
 
 dependencies {
-    implementation("com.applovin.mediation:adcolony-adapter:4.8.0.2")
+    implementation("com.applovin.mediation:adcolony-adapter:4.8.0.3")
 }
